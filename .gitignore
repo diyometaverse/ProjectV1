@@ -1,0 +1,5 @@
+ProjectV1/.env
+accounts/migrations/__pycache__/
+accounts/__pycache__
+projectapp/migrations/__pycache__/
+projectapp/__pycache__
